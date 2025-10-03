@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sudoevans/keep-alive.git"
+    "url": "git+https://github.com/stano-mwangi/keep-alive.git"
   },
   "keywords": [
     "keep",
@@ -18,10 +18,10 @@
     "keeper",
     "actions"
   ],
-  "author": "sudoevans",
+  "author": "stano-mwangi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sudoevans/keep-alive/issues"
+    "url": "https://github.com/stano-mwangi/keep-alive/issues"
   },
-  "homepage": "https://github.com/sudoevans/keep-alive#readme"
+  "homepage": "https://github.com/stano-mwangi/keep-alive#readme"
 }
