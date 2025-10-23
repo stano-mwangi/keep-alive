@@ -23,8 +23,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          git config user.name "sudoevans"
-          git config user.email "snaveqiptoo@gmail.com"
+          git config user.name "stano-mwangi"
+          git config user.email "stanomwangi2020@gmail.com"
           git add .
           git commit -m "Keep alive update"
           git push -u origin HEAD
